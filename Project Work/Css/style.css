@@ -1,0 +1,17 @@
+p{
+    color: darkblue;
+}
+h1{
+    color: green;  
+}
+backgroud-color{
+    color: rgb(155, 91, 91);
+}
+h4{
+    color: chartreuse;
+}
+img{
+    width: 200px;
+    float: left;
+    height: 200px;
+}
